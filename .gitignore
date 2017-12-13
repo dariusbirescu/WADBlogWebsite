@@ -1,3 +1,4 @@
 db.js
 npm-debug.log
 *.md
+node_modules
